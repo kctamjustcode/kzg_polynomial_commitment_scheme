@@ -1,1 +1,1 @@
-# KZG-Polynomial-Commitment
+# KZG-Polynomial-Commitment-Scheme
